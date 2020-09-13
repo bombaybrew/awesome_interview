@@ -32,3 +32,5 @@ https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/tutorial
 ## P / NP / NP-Hard / NP-Complete
 - https://www.mathsisfun.com/sets/np-complete.html
 - https://www.youtube.com/watch?time_continue=10&v=YX40hbAHx3s&feature=emb_logo&ab_channel=hackerdashery
+- https://www.britannica.com/science/NP-complete-problem
+- http://web.mat.bham.ac.uk/R.W.Kaye/minesw/ordmsw.htm
